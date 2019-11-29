@@ -18,3 +18,7 @@ p {
   font-style: initial;
   font-family: sans-serif;
 }
+input {
+  color: darkgreen;
+  font-style: italic;
+}
