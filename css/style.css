@@ -1,7 +1,14 @@
 h1 {
   color: darkorange;
-  font-size: large;
+  font-size: larger;
   font-style: italic;
   font-family: serif;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  font-size: large;
+  font-family: fantasy;
+  font-style: oblique;
   text-align: center;
 }
