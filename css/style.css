@@ -28,3 +28,6 @@ input {
 .jumbotron {
   background-image: url(hi.jpg);
 }
+body {
+  background-color: chartreuse;
+}
