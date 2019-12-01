@@ -31,3 +31,7 @@ input {
 body {
   background-color: chartreuse;
 }
+.jumbotron {
+  background: darkgray;
+  font-size: 50px;
+}
