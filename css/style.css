@@ -35,3 +35,6 @@ body {
   background: darkgray;
   font-size: 50px;
 }
+.card-title {
+  float: left;
+}
